@@ -23,3 +23,17 @@ Sources:
 - [Source 1](https://arxiv.org/abs/1711.05042)
 - [Source 2](https://www.sciencedirect.com/science/article/pii/S1364815218301325)
 - [Source 3](https://onlinelibrary.wiley.com/doi/full/10.1002/cplx.21624)
+
+## So it might have with emergent capabilities for a simulation environment. How about for game engines?
+
+While game engines and simulated environments have some similarities, there are also some differences that may affect the way in which an engineered language is designed. In game development, the choice of programming language and game engine can have a significant impact on the final product [1].
+
+Game engines like Unity, Unreal Engine, and CryEngine provide a range of tools and functionalities for game developers, including 2D and 3D graphics rendering, physics, sound, and AI [5]. These engines often have their own programming languages or support multiple languages, such as C++ and JavaScript [1].
+
+When it comes to designing an engineered language for game development, it may be useful to consider the specific features and requirements of the chosen game engine and programming language. For example, if the game engine supports physics simulation, it may be possible to create a language that allows game objects to interact with each other in a natural and intuitive way [14].
+
+However, it is important to note that the goals and requirements of a game engine may be different from those of a simulated environment. In a game, the focus is often on creating an immersive and engaging experience for the player, whereas a simulated environment may be designed for research or training purposes [5].
+
+Therefore, the choice of whether or not to ground an engineered language in real-world referents may depend on the specific goals and requirements of the game or simulated environment. For example, if the game is set in a realistic environment, it may be useful to ground the language in real-world referents to enhance the player's immersion and understanding of the game world. On the other hand, if the game is more abstract or stylized, it may not be necessary to use real-world referents [1].
+
+Overall, the choice of whether or not to ground an engineered language in real-world referents for game development will likely depend on a variety of factors, including the specific game engine and programming language being used, the goals of the game, and the preferences of the game developers.
