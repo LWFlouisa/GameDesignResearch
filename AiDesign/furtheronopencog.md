@@ -17,4 +17,16 @@ To achieve this, you can leverage OpenCog's framework and the various approaches
 
 As you work on your Evolutionary Symbolic Chatbots domain, you can also explore AI chatbots mentioned in [Source 9](https://geekflare.com/artificial-general-intelligence/), which can have natural conversations and perform rule-based operations. These chatbots can serve as a starting point for developing more advanced AGI solutions in the future.
 
-In summary, using OpenCog as a framework and leveraging various approaches mentioned in the provided sources can help you uplift existing systems and work on true AGI solutions in your chosen domain, such as Evolutionary Symbolic Chatbots. 
+In summary, using OpenCog as a framework and leveraging various approaches mentioned in the provided sources can help you uplift existing systems and work on true AGI solutions in your chosen domain, such as Evolutionary Symbolic Chatbots.
+
+# AI Beta Tester
+
+## I could make an AI player that learns to play Tactical Visual Novels, that might simplify intigration, and use that for beta testing visual novels.
+
+Creating an AI player that learns to play Tactical Visual Novels (TVNs) can indeed simplify integration and be used for beta testing visual novels. To achieve this, you can leverage the OpenCog framework and self-play reinforcement learning techniques mentioned in [Source 2](https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717).
+
+To start, you can use an existing visual novel engine like those mentioned in [Source 1](https://www.pcgamer.com/the-best-visual-novel-engines/) to create the TVNs. Once you have a TVN, you can use self-play reinforcement learning techniques to train the AI player. You can follow the approach described in [Source 2](https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717), which involves training the AI agent against previous versions of itself. This approach has been successful in training agents such as AlphaZero (Go, Shogi, Chess) and OpenAI Five (Dota2).
+
+You can implement the self-play reinforcement learning using the SIMPLE package mentioned in [Source 2](https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717). This package makes it simple to apply self-play reinforcement learning to custom multiplayer games, which can be adapted for your TVN.
+
+By using the OpenCog framework and self-play reinforcement learning techniques, you can create an AI player that learns to play Tactical Visual Novels, simplifying integration and serving as a powerful tool for beta testing visual novels. 
