@@ -67,3 +67,16 @@ Remember that while Ren'Py has some limitations, it can still be a powerful and 
 ## Before I accidentally pressed respawn you mentioned opencog was no longer maintained, can you expand on that?
 
 Yes, of course. As per [Source 1](https://github.com/opencog/opencog), the OpenCog repository is no longer maintained and has been split into separate repositories, with most of the interesting and actively maintained parts moving elsewhere. The remaining code in the OpenCog repository is a mish-mash of unmaintained stuff that is in the process of bit-rotting, with some unit tests failing, some code not compiling, and some unit tests not running. While there might be some good stuff in there, for the most part, it is obsolete. Although OpenCog was originally based on the release in 2008 of the source code of the proprietary "Novamente Cognition Engine" (NCE) of Novamente LLC, as per [Source 2](https://en.m.wikipedia.org/wiki/OpenCog), ongoing development of OpenCog is supported by Artificial General Intelligence Research Institute (AGIRI), the Google Summer of Code project, Hanson Robotics, SingularityNET and others. However, the information on the current status of OpenCog is not very clear, as some sources like [Source 3](https://opencog.org/) mention events related to OpenCog in 2020, while others like [Source 9](https://www.linkedin.com/company/opencog-foundation) describe OpenCog as an open-source Artificial General Intelligence framework.
+
+## In Conclusion
+It's great that you found the information about OpenCog's current status useful. Since you're familiar with Ren'Py and Python, you can leverage Ren'Py's Python support to create a Tactical Visual Novel with more complex behaviors and interactions, as mentioned in my previous response.
+
+As for the sources you provided, they offer valuable insights into game development and visual novel engines. For example, [Source 6](https://www.slant.co/versus/1085/1105/~rpgmaker_vs_ren-py) compares RPG Maker and Ren'Py, highlighting their strengths and weaknesses. This can help you better understand the capabilities of Ren'Py and other visual novel engines.
+
+[Source 7](https://technivorz.com/is-python-good-for-game-development/) emphasizes the benefits of using Python for game development, such as rapid prototyping and code agility. This aligns with your decision to use Ren'Py, which has built-in Python support.
+
+[Source 9](https://opensource.com/article/18/7/twine-vs-renpy-interactive-fiction) compares Twine and Ren'Py, discussing their suitability for text-based projects and projects with extensive graphics and multimedia elements. This can help you determine if Ren'Py is the right choice for your Tactical Visual Novel project.
+
+[Source 11](https://m.youtube.com/watch?v=0fDQYFgYzT8) is a YouTube video discussing game objects in Ren'Py, providing a better understanding of how they can be used to create complex interactions.
+
+Overall, these sources offer valuable information that can help you create a Tactical Visual Novel using Ren'Py and Python. By leveraging Ren'Py's Python support and other available resources, you can create a more engaging and emergent experience within the limitations of Ren'Py. 
