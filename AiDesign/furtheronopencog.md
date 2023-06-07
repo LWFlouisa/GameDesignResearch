@@ -30,3 +30,17 @@ To start, you can use an existing visual novel engine like those mentioned in [S
 You can implement the self-play reinforcement learning using the SIMPLE package mentioned in [Source 2](https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717). This package makes it simple to apply self-play reinforcement learning to custom multiplayer games, which can be adapted for your TVN.
 
 By using the OpenCog framework and self-play reinforcement learning techniques, you can create an AI player that learns to play Tactical Visual Novels, simplifying integration and serving as a powerful tool for beta testing visual novels. 
+
+## So Id be making a visual novel to train my own AI agent with as one thing it can learn to do as a proof of concept. Then work on humanizing the game itself later.
+
+Creating a visual novel to train your own AI agent with as one thing it can learn to do as a proof of concept is a good idea. You can start by building a simple visual novel using a visual novel engine, as mentioned in [Source 1](https://www.pcgamer.com/the-best-visual-novel-engines/). Once you have a basic TVN, you can train your AI agent using reinforcement learning techniques.
+
+To train your AI agent, you can follow the approach described in [Source 5](https://imagga.com/blog/getting-started-with-ai-agents-and-games/), which involves using OpenAI Gym modules to train the AI agent in a controlled environment. You can adapt this approach for your visual novel, creating a custom environment tailored to the specific challenges and mechanics of your TVN.
+
+As you work on the AI agent's training, you can use a combination of computer vision and machine learning techniques, as shown in the example of training an AI agent to play Mario in [Source 5](https://imagga.com/blog/getting-started-with-ai-agents-and-games/). This approach can help you develop an AI agent that can learn to play and interact with your visual novel.
+
+Once you have a working AI agent, you can integrate it into your visual novel for beta testing. This will allow you to evaluate the AI agent's performance and make necessary adjustments to improve its capabilities.
+
+After you have a satisfactory AI agent, you can then focus on humanizing the game itself, as you mentioned. This can involve refining the story, characters, and overall experience to make the visual novel more engaging and immersive for players.
+
+In summary, creating a visual novel for training your AI agent as a proof of concept is a viable approach. By leveraging reinforcement learning techniques and adapting them to your TVN, you can develop an AI agent that can learn to play and interact with your visual novel, serving as a powerful tool for beta testing and improving the overall experience. 
