@@ -66,3 +66,13 @@ Ren'Py's powerful scripting language (Python) and flexible event system would al
 Furthermore, Ren'Py has a large community and various resources available for learning and support, which can be beneficial during the late-stage prototyping process. By using Ren'Py, you can focus on crafting the game's narrative, characters, and gameplay elements while leveraging the strengths of AGI systems and your background in AI.
 
 In summary, Ren'Py would be a suitable choice for late-stage prototyping of your narrative-driven game with a dating sim twist. Its powerful scripting language, flexible event system, and supportive community make it an ideal platform for creating engaging stories, characters, and gameplay elements that integrate AGI systems and machine creativity. 
+
+## Apparently battle systems arent totally unheard of in visual novels, I played a renpy game where it was mainly a relationship driven game, but with an FF6 battle system. I prefer FF Tactics and Grandias battle system, but otherwise this is what Im considering.
+
+Given your preference for a battle system similar to FF Tactics and Grandia, you might want to consider implementing a custom battle system within your Ren'Py game. Although Ren'Py is primarily known for visual novels, it is possible to integrate a turn-based battle system using custom code [Source 2](https://lemmasoft.renai.us/forums/viewtopic.php?t=45512).
+
+You can take inspiration from existing Ren'Py projects, like the RPG Battle Engine [Source 9](http://eviscerate.net/article/rpg-battle-engine-renpy), and adapt them to suit your desired battle system style. Additionally, you can find resources and tutorials that guide you through the process of creating a custom battle system in Ren'Py [Source 5](https://lemmasoft.renai.us/forums/viewtopic.php?t=54879).
+
+While implementing a custom battle system may require more time and effort than using a built-in battle system, it will allow you to create a more unique and tailored gaming experience that aligns with your vision for a narrative-driven game with a dating sim twist and a preferred battle system style.
+
+In summary, Ren'Py can be used to create a narrative-driven game with a custom battle system that resembles FF Tactics and Grandia. By leveraging existing resources and tutorials, you can implement a turn-based battle system that fits your desired gameplay style while maintaining the focus on character development and storytelling. 
