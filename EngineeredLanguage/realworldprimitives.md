@@ -37,3 +37,47 @@ However, it is important to note that the goals and requirements of a game engin
 Therefore, the choice of whether or not to ground an engineered language in real-world referents may depend on the specific goals and requirements of the game or simulated environment. For example, if the game is set in a realistic environment, it may be useful to ground the language in real-world referents to enhance the player's immersion and understanding of the game world. On the other hand, if the game is more abstract or stylized, it may not be necessary to use real-world referents [1].
 
 Overall, the choice of whether or not to ground an engineered language in real-world referents for game development will likely depend on a variety of factors, including the specific game engine and programming language being used, the goals of the game, and the preferences of the game developers.
+
+## What are good example of a simulation environment as suppose to a game engine? Are flight simulators using simulation in a different sense?
+
+Yes, there are some differences between simulation environments and game engines. While game engines are designed primarily for creating video games, simulation environments are often used for research, training, or testing purposes [Source 5]. 
+
+Simulation environments can take many forms, depending on their intended use. For example, a flight simulator is a type of simulation environment that is used to train pilots in a safe and controlled setting [Source 9]. Other examples of simulation environments include driving simulators, medical simulators, and engineering simulators [Source 14]. 
+
+In general, simulation environments are designed to replicate real-world systems or phenomena, and may include a range of physical and computational models to achieve this goal [Source 3]. In contrast, game engines are designed to create immersive and interactive digital worlds, and may include features like graphics rendering, physics simulation, and AI [Source 5]. 
+
+However, there is some overlap between simulation environments and game engines, particularly in the realm of simulation games. Simulation games are a type of video game that simulate real-world activities or scenarios, and often use game engines to create their digital environments [Source 8]. Examples of simulation games include flight simulators, driving simulators, and management simulators [Source 8]. 
+
+In terms of whether an engineered language for simulation environments needs to be grounded in real-world referents, the same considerations apply as for game engines. Depending on the specific goals and requirements of the simulation environment, it may be useful to ground the language in real-world referents to enhance its ease of use, flexibility, and robustness [Source 1]. 
+
+Sources:
+
+- [Source 1](https://arxiv.org/abs/1711.05042)
+
+- [Source 3](https://softwareengineering.stackexchange.com/questions/134746/whats-the-difference-between-simulation-and-emulation)
+
+- [Source 5](https://learn.g2.com/best-programming-languages-for-games)
+
+- [Source 8](https://www.cubix.co/blog/game-engine-for-simulation-games)
+
+- [Source 9](https://www.flyingmag.com/guides/best-flight-simulators/)
+
+- [Source 14](https://www.researchgate.net/publication/307581082_Flight_Simulation_Virtual_Environments_in_Aviation)
+
+## What would you need for an environment design to simulate a world that branched off from our history but is otherwise the same?
+
+To simulate a world that branched off from our history but is otherwise the same, you would need to consider various factors, such as physical, social, and environmental changes. The following are some key points to consider:
+
+1. Physical changes: If you want to simulate a world that branched off from our history, you need to consider the physical changes that would have occurred. This could include changes in geography, climate, flora, and fauna. For instance, if you want to simulate a world where the ice age never ended, you would need to consider how this would affect the climate, the environment, and the animals that live in that world. [Source 0]
+
+2. Social changes: You would also need to consider the social changes that would have occurred in the alternate world. This could include changes in population, culture, politics, and technology. For example, if you want to simulate a world where the Roman Empire never fell, you would need to consider how this would affect the culture, politics, and technology of that world. [Source 3]
+
+3. Environmental design: Environmental design is a crucial aspect of simulating a world that branched off from our history. Environmental design involves designing indoor and outdoor spaces that are in ecological and aesthetic harmony with their surroundings. As an environmental designer, you would need to consider the larger aesthetic picture when planning and creating your spaces, structures, and other projects. You would also need to learn how to construct structures and spaces that are both ecologically sustainable and environmentally safe. [Source 4]
+
+4. Building simulation: Building simulation is a way to test how elements of building design will perform under real-world conditions. This is done using a mathematical model that re-creates conditions in a virtual environment. These computer-based simulations enable architects and engineers to evaluate the performance of their designs. Users provide information like climate data, lighting requirements, and occupancy profiles. Based on these inputs, simulation results can determine inside temperature, fresh air rates, CO2 levels, and energy consumption. Building simulations help balance energy efficiency with occupant comfort while reducing cost and time in the design process. [Source 9]
+
+5. Simulation tools: To simulate a world that branched off from our history, you need simulation tools that can help you create a virtual environment. These tools can number in the hundreds and vary based on the industry application. Modeling and simulation are applied to a range of disciplines in the built environment, from sizing HVAC equipment to calculating performance ratings for green building certifications. Simulation workflows begin with a CAD model, which generates a digital representation of the building. From there, software tools can be selected based on the intended purpose or result needed. [Source 9]
+
+6. Capturing more physics: One of the trends in building simulation is capturing more physics. The indoor environment is heavily influenced by what is happening outside, and this is especially true when buildings utilize natural or mixed-mode ventilation. The ability to capture more physics via CFD to be used in building simulation is becoming technologically feasible and will allow architects and engineers to simulate various scenarios. For example, atmospheric changes significantly impact heating and cooling loads whether that is through ventilation or infiltration. Building simulation software in 2021 can couple these variables more effectively and provide a complete picture of the external environmental impact on complex heating and cooling system design. [Source 9]
+
+In conclusion, simulating a world that branched off from our history but is otherwise the same requires considering various factors, such as physical, social, and environmental changes. Environmental design and building simulation are crucial aspects of simulating such a world, and there are several simulation tools available to help you create a virtual environment.
