@@ -25,3 +25,45 @@ Creating a Tactical Visual Novel blending Ren'Py and Opencog could indeed be an 
 - You could also consider using other visual novel engines that might better suit your needs, such as VNgen or similar tools.
 
 In conclusion, blending Ren'Py and Opencog could be a viable approach for creating a Tactical Visual Novel, but you should carefully consider the pros and cons of using these libraries together, as well as the alternatives available. If you're comfortable with the limitations of Ren'Py and the complexity of integrating Opencog, creating your own battle engine might be a worthwhile endeavor. However, if you find the integration too challenging or the limitations of Ren'Py too restrictive, you might want to explore alternative visual novel engines or game development tools. 
+
+## Yea lets work within Renpy limitations, as I want it to be emergent in cognitive abilities, even if using Renpy. Id work on a more complex engine in Ruby later.
+
+If you want to work within Ren'Py's limitations and still make use of its built-in support for Python, you can use Python statements within your Ren'Py scripts to create more complex behaviors and interactions [Source 4](https://www.renpy.org/doc/html/python.html). Here are some steps you can take to start building your Tactical Visual Novel within Ren'Py:
+
+1. Start by creating a basic Ren'Py game script that includes some dialogue and narration, as shown in [Source 2](https://www.renpy.org/doc/html/quickstart.html). This will help you get familiar with Ren'Py's syntax and structure.
+
+2. Once you have a basic script, start experimenting with Python statements to add more complex behaviors to your game. For example, you could use Python to create a simple combat system, or to generate random events or dialogue options based on the player's choices.
+
+3. To use Python statements in your Ren'Py script, you can simply include them within `{ }` brackets, like this:
+
+```
+
+label start:
+
+    "Sylvie" "Hi there! How was class?"
+
+    "Me" "Good..."
+
+    "I can't bring myself to admit that it all went in one ear and out the other."
+
+    "Me" "Are you going home now? Wanna walk back with me?"
+
+    "Sylvie" "Sure!"
+
+    # A Python statement that prints a message to the console
+
+    "{ python:
+
+        print('You encountered an enemy!')
+
+    }"
+
+```
+
+4. As you build your game, you can also make use of the various libraries and tools available within the Ren'Py community, such as the Lemma Soft Forums [Source 2](https://www.renpy.org/doc/html/quickstart.html) or other resources [Source 9](https://python.plainenglish.io/renpy-a-simple-solution-to-building-visual-novel-games-32d6179a7840). These can help you troubleshoot issues, find support, and share your work with others.
+
+Remember that while Ren'Py has some limitations, it can still be a powerful and versatile tool for creating visual novels and other interactive experiences. By using Python statements and other resources available within the community, you can create a Tactical Visual Novel that is both engaging and emergent in its cognitive abilities.
+
+## Before I accidentally pressed respawn you mentioned opencog was no longer maintained, can you expand on that?
+
+Yes, of course. As per [Source 1](https://github.com/opencog/opencog), the OpenCog repository is no longer maintained and has been split into separate repositories, with most of the interesting and actively maintained parts moving elsewhere. The remaining code in the OpenCog repository is a mish-mash of unmaintained stuff that is in the process of bit-rotting, with some unit tests failing, some code not compiling, and some unit tests not running. While there might be some good stuff in there, for the most part, it is obsolete. Although OpenCog was originally based on the release in 2008 of the source code of the proprietary "Novamente Cognition Engine" (NCE) of Novamente LLC, as per [Source 2](https://en.m.wikipedia.org/wiki/OpenCog), ongoing development of OpenCog is supported by Artificial General Intelligence Research Institute (AGIRI), the Google Summer of Code project, Hanson Robotics, SingularityNET and others. However, the information on the current status of OpenCog is not very clear, as some sources like [Source 3](https://opencog.org/) mention events related to OpenCog in 2020, while others like [Source 9](https://www.linkedin.com/company/opencog-foundation) describe OpenCog as an open-source Artificial General Intelligence framework.
