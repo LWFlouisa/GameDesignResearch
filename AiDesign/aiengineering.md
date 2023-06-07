@@ -1,13 +1,9 @@
-To adjust Aerith's Theme to Locrian and use modal interchange to brighten it up, you'll first need to change the key to a Locrian mode. Locrian is a mode with a diminished tonic triad, which gives it a dark and dissonant sound [Source 5](https://en.m.wikipedia.org/wiki/Locrian_mode). The Locrian mode is derived from the major scale, so the melody will be based on the notes of the G Major scale: G, A, B, C, D, E, F.
+Yes, it is possible to have games that are advanced in different ways, such as having 90s or 2000s graphics but a state-of-the-art AI system that even current games have trouble competing with. An early AGI system stealthily integrated into the game can enhance the gaming experience in various ways.
 
-Now, let's use modal interchange to brighten up the melody. Since we're working with the Locrian mode, we can look for a mode with a more uplifting sound. One option is to borrow chords from the parallel Locrian mode, which is derived from the E Major scale: E, F#, G, A, B, C, D.
+One example of AI integration in games is the use of ChatGPT to recreate classic games like Pong, Tetris, and Snake, as well as generate story ideas and dialogue for text-based role-playing games [Source 2](https://www.polygon.com/ai-artificial-intelligence/23650693/chatgpt-generative-ai-video-game-development). AI technology is constantly being experimented on and improved, and its application in video games is growing.
 
-Suppose you have a melody in Locrian mode that starts with the chord progression: G, F, D, C, B, A. You can use the Gmaj7 chord (G, B, D, F) as a substitute for the D minor chord (D, F, A) to create a brighter sound:
+However, there are some challenges and trade-offs when it comes to implementing advanced AI in games. For example, if enemy AI knows how the player operates to such an extent that it can always win against them, it might suck the fun out of the game [Source 5](https://www.gamedesigning.org/gaming/ai-in-gaming/). Additionally, the technology required for advanced AI systems can be expensive, which might make it inaccessible for indie developers or drift AAA games further away from being possible for them [Source 5](https://www.gamedesigning.org/gaming/ai-in-gaming/).
 
-```
-G, Gmaj7, F, C, B, A
-```
+Despite these challenges, AI has been used in various ways to enhance the gaming experience. Some games showcase the importance of AI in creating immersive and realistic environments [Source 9](https://gamerant.com/best-games-advanced-ai/). As open-world and narrative-based games become more complex, the need for advanced AI techniques is growing [Source 10](https://www.gamesradar.com/the-future-of-artificial-intelligence-ai-in-video-games/).
 
-This chord substitution can help brighten up the melody by borrowing a chord from the parallel Locrian mode. Keep in mind the general guidelines for modal interchange mentioned earlier to ensure a cohesive and engaging composition.
-
-Remember that the Locrian mode is not commonly used for entire compositions, and you might want to use modal interchange to create short passages that resolve quickly to other modes [Source 10](https://hellomusictheory.com/learn/locrian-mode/). This will help maintain the overall atmosphere of Aerith's Theme while adding color and variety to the melody. 
+In conclusion, it is possible to have games with advanced AI systems integrated, even if they have outdated graphics. This can lead to unique gaming experiences, but it is essential to consider the trade-offs and challenges associated with implementing advanced AI in games. 
