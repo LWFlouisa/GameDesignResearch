@@ -1,6 +1,6 @@
 ## Using Neuro Symbolic In Games
 
-# One approach I thought of is instead of training the neural net directly, build the game engine and neurosymbolic program seperately, and then use the neuro symbolic process as "smart walkthrough" that guides you through the game.
+### One approach I thought of is instead of training the neural net directly, build the game engine and neurosymbolic program seperately, and then use the neuro symbolic process as "smart walkthrough" that guides you through the game.
 
 Neuro-symbolic AI is an approach that integrates neural and symbolic AI architectures to address the strengths and weaknesses of each, resulting in a robust AI system capable of reasoning, learning, and cognitive modeling [Source 1]. It combines the statistical learning capabilities of neural networks with the knowledge representation and reasoning capabilities of symbolic AI [Source 3]. By fusing these two approaches, neuro-symbolic AI aims to create a new class of AI that is more powerful than the sum of its parts [Source 2].
 
@@ -22,7 +22,7 @@ It's important to note that neuro-symbolic AI is an active area of research, and
 
 In summary, the approach you mentioned of building the game engine and neuro-symbolic program separately and using the neuro-symbolic process as a "smart walkthrough" is a valid approach in the context of neuro-symbolic AI. It allows for explainable decision making, human guidance, and reduction in interactions with the environment. However, it also comes with challenges such as complexity, knowledge acquisition, and scalability.
 
-# One way could be making the gameplay simpler. My use case is more like a graphical text adventure than a ascii roguelike.
+### One way could be making the gameplay simpler. My use case is more like a graphical text adventure than a ascii roguelike.
 
 If your use case is more like a graphical text adventure than an ASCII roguelike, there are several ways you can simplify the gameplay and create an immersive experience. Here are some suggestions:
 
